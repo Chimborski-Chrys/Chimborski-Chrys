@@ -37,8 +37,8 @@
 ### 📊 Estatísticas do GitHub
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Chimborski-Chrys&show_icons=true&theme=merko&include_all_commits=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chimborski-Chrys&layout=compact&langs_count=6&theme=tokyonight" />
+  <img height="180em" src="https://vercel.com/chrystiomar-4969s-projects/github-readme-stats/EtY3XpnnT8CBXPqc3DiCNgPtVQej/api?username=Chimborski-Chrys&show_icons=true&theme=merko&include_all_commits=true&count_private=true" />
+  <img height="180em" src="https://vercel.com/chrystiomar-4969s-projects/github-readme-stats/EtY3XpnnT8CBXPqc3DiCNgPtVQej/api/top-langs/?username=Chimborski-Chrys&layout=compact&langs_count=6&theme=tokyonight" />
 </div>
 
 ---
